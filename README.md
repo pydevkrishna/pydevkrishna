@@ -1,200 +1,179 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Krishan%20Kant%20Sharma&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=I%20build%20things%2C%20break%20things%2C%20and%20occasionally%20fix%20them%20too&descAlignY=55&descSize=15" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Krishan%20Kant%20Sharma&fontSize=48&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=@pydevkrishna%20%E2%80%94%20I%20build%20things%2C%20break%20things%2C%20fix%20them%20eventually&descAlignY=60&descSize=14&descColor=8b949e" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Top+0.4%25+on+LeetCode+%F0%9F%94%A5;Guardian+%7C+Rating+2342+%E2%9A%94%EF%B8%8F;Solved+2000%2B+problems+and+counting+%F0%9F%A7%A0;Building+AI+tools+that+actually+work+%F0%9F%A4%96;Looking+for+internships+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=680&lines=Guardian+on+LeetCode+%E2%80%94+Top+0.4%25+globally+%F0%9F%94%A5;2342+peak+rating+%7C+2000%2B+problems+solved;Built+RAG+pipelines%2C+real-time+apps%2C+ML+models;B.Tech+CSE+AI%2FML+%40+GL+Bajaj+%282023%E2%80%932027%29;Open+to+SWE+%2F+ML+internships+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Guardian%20%7C%202342-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Krishan-kant-sharma)
-[![Codeforces](https://img.shields.io/badge/Codeforces-Expert%20%7C%201603-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Krishan-Kant-Sharma)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Gmail](https://img.shields.io/badge/Gmail-Mail%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krishnakantvdjs10tha@gmail.com)
+<a href="https://leetcode.com/Krishan-kant-sharma"><img src="https://img.shields.io/badge/LeetCode-Guardian%20%7C%20%232342-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+<a href="https://codeforces.com/profile/Krishan-Kant-Sharma"><img src="https://img.shields.io/badge/Codeforces-Expert%20%7C%20%231603-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
+<a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:krishnakantvdjs10tha@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/pydevkrishna"><img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-<img src="https://komarev.com/ghpvc/?username=pydevkrishna&label=Profile+Views&color=58A6FF&style=flat-square" alt="profile views" />
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=pydevkrishna&label=profile%20views&color=58a6ff&style=flat" />
 
 </div>
 
----
+<br/>
 
-## 👋 Hey, I'm Krishan
+## `whoami`
 
-CS undergrad at **GL Bajaj, Mathura** (2023–2027), studying AI/ML. I spend most of my time writing code, solving competitive programming problems, and building stuff I wish existed.
+CS undergrad at GL Bajaj, Mathura — studying AI/ML, graduating 2027. Got into competitive programming early and it kind of took over. Went from zero to **LeetCode Guardian (top 0.4%, rating 2342)** in about a year, solved 2000+ problems across platforms.
 
-I got into coding through competitive programming and got hooked — went from not knowing what a for loop was to hitting **Guardian on LeetCode (top 0.4%)** in about a year. Along the way I started building real projects too: a RAG platform for querying codebases, a 1v1 coding battle app, and a few ML experiments.
-
-Right now I'm into **RAG pipelines, real-time systems, and anything that mixes AI with dev tooling.**
+Along the way I started building real things — a RAG platform for querying GitHub repos, a real-time 1v1 coding battle app, and some ML experiments. Currently into **RAG pipelines, real-time systems, and AI × dev tooling**.
 
 ```python
 class KrishanKant:
-    def __init__(self):
-        self.location    = "Mathura, Uttar Pradesh 🇮🇳"
-        self.cgpa        = 7.52
-        self.rating      = {"LeetCode": 2342, "Codeforces": 1603}
-        self.problems    = "2000+ solved across platforms"
-        self.currently   = "Building AI-powered dev tools & grinding contests"
-        self.looking_for = "SWE / ML internship opportunities 👀"
-
-    def reach_me(self):
-        return "krishnakantvdjs10tha@gmail.com"
+    location     = "Mathura, Uttar Pradesh 🇮🇳"
+    college      = "GL Bajaj Group of Institutions — B.Tech CSE (AI/ML), 2023–27"
+    ratings      = {"LeetCode": 2342, "Codeforces": 1603}
+    problems     = "2000+ solved"
+    building     = ["RAG systems", "real-time apps", "AI dev tools"]
+    looking_for  = "SWE / ML internship 👀"
+    contact      = "krishnakantvdjs10tha@gmail.com"
 ```
 
----
+<br/>
 
-## 🚀 Things I've Built
+## 🏗️ Things I've Built
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td valign="top" width="50%">
 
-### 🔍 RepoFriend
-**[Live Site](#) · [GitHub](#)**
+**🔍 RepoFriend** &nbsp;·&nbsp; [`live`](#) [`repo`](#)
+
 `Dec 2025 – Feb 2026`
 
-You point it at any GitHub repo and ask questions in plain English. It figures out the relevant files, pulls context, and gives you grounded answers — not hallucinations.
+Ask any GitHub repo questions in plain English and get grounded, file-level answers — not hallucinations. Clones the repo, chunks code into logical sections, embeds via FastEmbed, stores in Qdrant Cloud, and uses Gemini for generation. Also does PR review, commit summaries, and supports multi-repo chat workspaces.
 
-Built on FastAPI + Qdrant for vector search, Next.js on the frontend, and Gemini for generation. Also handles PR review, commit summaries, and lets you chat across multiple repos at once.
-
-**Stack:** `Python` `FastAPI` `PostgreSQL` `Qdrant` `Next.js` `Gemini`
+`Python` `FastAPI` `PostgreSQL` `Qdrant` `Next.js` `Gemini` `Firebase`
 
 </td>
-<td width="50%" valign="top">
+<td valign="top" width="50%">
 
-### ⚔️ CatCode
-**[Live Site](#) · [GitHub](#)**
+**⚔️ CatCode** &nbsp;·&nbsp; [`live`](#) [`repo`](#)
+
 `Oct 2025 – Nov 2025`
 
-Head-to-head coding battles — get matched with someone, pick a problem, and race. Real-time match state over WebSockets, 90+ languages supported via Monaco Editor, and Gemini reviews both solutions after the match.
+Real-time 1v1 coding battles. Get matched globally or challenge a friend, race on the same problem, and get Gemini to review both solutions after. WebSocket-driven state, Monaco Editor with 90+ languages, global leaderboard, and Redis-backed matchmaking queues.
 
-Has a global leaderboard, friend lists, and private challenge rooms. Basically what I wished existed when I was bored between contests.
-
-**Stack:** `Python` `FastAPI` `React` `TypeScript` `Redis` `WebSockets`
+`Python` `FastAPI` `React` `TypeScript` `Redis` `WebSockets` `Gemini`
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td valign="top" width="50%">
 
-### 📦 Amazon Sales Predictor
-**[Medium Article](#) · [GitHub](#)**
+**📦 Amazon Sales Predictor** &nbsp;·&nbsp; [`article`](#) [`repo`](#)
+
 `Aug 2025 – Sept 2025`
 
-PyTorch regression model that predicts fair Amazon product prices from real Kaggle data. Full pipeline from messy CSV → cleaned → encoded → normalized → trained → evaluated.
+Deep learning regression model that predicts fair product prices from real Amazon Kaggle data. Built the full pipeline myself — cleaning, encoding, normalization, train/test split, 2-layer neural net with ReLU + Adam, then plotted predicted vs actual to evaluate. First ML project I did end-to-end without following a tutorial.
 
-My first ML project built end-to-end without tutorials.
-
-**Stack:** `Python` `PyTorch` `Pandas` `NumPy` `Matplotlib`
+`Python` `PyTorch` `Pandas` `NumPy` `Matplotlib`
 
 </td>
-<td width="50%" valign="top">
+<td valign="top" width="50%">
 
-### 🔮 Next up...
-`In progress`
+**🔮 Next up...**
 
-Tinkering with:
-- An **agentic code reviewer** that understands your whole codebase — not just the diff
-- Experimenting with **LLM orchestration** patterns
-- More real-time multiplayer ideas
+`in progress`
 
-If any of these sound interesting — reach out, always down to collab.
+Working on an agentic code reviewer that understands the full codebase context, not just the diff you submitted. Also tinkering with LLM orchestration patterns and more real-time multiplayer ideas.
+
+If any of this sounds interesting — [reach out](mailto:krishnakantvdjs10tha@gmail.com), always down to collab.
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-## 🛠️ What I Work With
+## 🏆 Highlights
+
+| | | |
+|---|---|---|
+| 🥇 | LeetCode Weekly Contest 486 | **Rank #73** / 41,284 |
+| 🥈 | Codeforces Round 1083 (Div. 2) | **Rank #520** / 21,113 |
+| 🤖 | Amazon ML Challenge 2025 | **Rank #235** / 6,000+ teams · score 54.21 |
+| 🧠 | Problems solved | **2000+** across all platforms |
+| ⚡ | LeetCode | **Guardian** · max rating **2342** · top **0.4%** globally |
+| 💙 | Codeforces | **Expert** · max rating **1603** |
+
+<br/>
+
+## 🛠️ Stack
 
 <div align="center">
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 **Frameworks & ML**
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
-**Tools & Infra**
+**Infra & Tools**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
----
-
-## 🏆 Some Numbers I'm Proud Of
-
-<div align="center">
-
-| | What | Result |
-|:---:|---|---|
-| 🥇 | **LeetCode Weekly Contest 486** | Rank **#73** out of 41,284 people |
-| 🥈 | **Codeforces Round 1083 (Div. 2)** | Rank **#520** out of 21,113 people |
-| 🤖 | **Amazon ML Challenge 2025** | Rank **#235** out of 6,000+ teams · Score: **54.210** |
-| 🧠 | **Problems solved** | 2000+ across LeetCode, Codeforces, and more |
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 </div>
-
----
-
-## 📊 CP Stats
-
-<div align="center">
-
-| Platform | Handle | Peak Rating | Status |
-|:---:|---|:---:|---|
-| 🟡 **LeetCode** | [Krishan-kant-sharma](https://leetcode.com/Krishan-kant-sharma) | **2342** | Guardian · Top **0.4%** 🔥 |
-| 🔵 **Codeforces** | [Krishan-Kant-Sharma](https://codeforces.com/profile/Krishan-Kant-Sharma) | **1603** | Expert ⚡ |
 
 <br/>
 
-<img src="https://leetcard.jacoblin.cool/Krishan-kant-sharma?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats"/>
-
-</div>
-
----
-
-## 📈 GitHub Activity
+## 📊 Activity
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=pydevkrishna&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=pydevkrishna&theme=github-dark&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&currStreakNum=e6edf3&sideNums=e6edf3" />
+&nbsp;
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pydevkrishna&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3&border_color=30363d&langs_count=6" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pydevkrishna&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pydevkrishna&theme=github-compact&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" width="100%"/>
+
+<br/>
+
+<img src="https://leetcard.jacoblin.cool/Krishan-kant-sharma?theme=dark&font=JetBrains+Mono&ext=heatmap&border=0&radius=8" />
 
 </div>
+
+<br/>
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer&fontColor=58a6ff" width="100%"/>
 
-**Got an interesting project, a cool idea, or a hiring form? Hit me up.**
+**Got a cool project, a collab idea, or a hiring form?**
 
-📬 [krishnakantvdjs10tha@gmail.com](mailto:krishnakantvdjs10tha@gmail.com) &nbsp;·&nbsp; 📍 Mathura, UP, India
+[📬 krishnakantvdjs10tha@gmail.com](mailto:krishnakantvdjs10tha@gmail.com) &nbsp;·&nbsp; 📍 Mathura, UP
 
-*If a repo helped you — a ⭐ goes a long way!*
+*A ⭐ on a repo that helped you goes a long way.*
 
 </div>
