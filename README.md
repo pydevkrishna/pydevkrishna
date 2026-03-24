@@ -4,19 +4,11 @@
 
 <br/>
 
-```
-    /\_____/\
-   /  o   o  \       meow. you found my github.
-  ( ==  ^  == )      feel free to look around —
-   )         (       just don't wake me up.
-  (           )
- ( (  )   (  ) )
-(__(__)___(__)__)
-```
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="120" height="120" style="border-radius:50%"/>
 
-<br/>
+<br/><br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=680&lines=Guardian+on+LeetCode+%E2%80%94+Top+0.4%25+globally+%F0%9F%94%A5;2342+peak+rating+%7C+2000%2B+problems+solved;Built+RAG+pipelines%2C+real-time+apps%2C+ML+models;B.Tech+CSE+AI%2FML+%40+GL+Bajaj+%282023%E2%80%932027%29;Open+to+SWE+%2F+ML+internships+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=680&lines=meow.+you+found+my+github+%F0%9F%90%BE;Guardian+on+LeetCode+%E2%80%94+Top+0.4%25+globally+%F0%9F%94%A5;2342+peak+rating+%7C+2000%2B+problems+solved;Built+RAG+pipelines%2C+real-time+apps%2C+ML+models;Open+to+SWE+%2F+ML+internships+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
@@ -32,9 +24,11 @@
 
 </div>
 
-<br/>
+---
 
 ## 🐾 `whoami`
+
+<img align="right" src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="200"/>
 
 CS undergrad at GL Bajaj, Mathura — studying AI/ML, graduating 2027. Got into competitive programming early and it kind of took over. Went from zero to **LeetCode Guardian (top 0.4%, rating 2342)** in about a year, solved 2000+ problems across platforms.
 
@@ -42,18 +36,20 @@ Along the way I started building real things — a RAG platform for querying Git
 
 ```python
 class KrishanKant:
-    name         = "Krishan Kant Sharma"          # human (probably)
-    location     = "Mathura, Uttar Pradesh 🇮🇳"
-    college      = "GL Bajaj — B.Tech CSE (AI/ML), 2023–27"
-    ratings      = {"LeetCode": 2342, "Codeforces": 1603}
-    problems     = "2000+ solved 🧠"
+    name          = "Krishan Kant Sharma"
+    location      = "Mathura, Uttar Pradesh 🇮🇳"
+    college       = "GL Bajaj — B.Tech CSE (AI/ML), 2023–27"
+    ratings       = {"LeetCode": 2342, "Codeforces": 1603}
+    problems      = "2000+ solved 🧠"
     spirit_animal = "🐱 cat (naps hard, works harder)"
-    building     = ["RAG systems", "real-time apps", "AI dev tools"]
-    looking_for  = "SWE / ML internship 👀"
-    contact      = "krishnakantvdjs10tha@gmail.com"
+    building      = ["RAG systems", "real-time apps", "AI dev tools"]
+    looking_for   = "SWE / ML internship 👀"
+    contact       = "krishnakantvdjs10tha@gmail.com"
 ```
 
-<br/>
+<br clear="right"/>
+
+---
 
 ## 🐱 things i've built
 
@@ -76,7 +72,7 @@ Ask any GitHub repo questions in plain English and get grounded, file-level answ
 
 `Oct 2025 – Nov 2025`
 
-Real-time 1v1 coding battles *(yes, cat + code, very on brand)*. Get matched globally or challenge a friend, race on the same problem, and get Gemini to review both solutions after. WebSocket-driven state, Monaco Editor with 90+ languages, Redis matchmaking queues.
+Real-time 1v1 coding battles *(yes, cat + code — very on brand 🐾)*. Get matched globally or challenge a friend, race on the same problem, Gemini reviews both solutions after. WebSocket-driven state, Monaco Editor with 90+ languages, Redis matchmaking queues.
 
 `Python` `FastAPI` `React` `TypeScript` `Redis` `WebSockets` `Gemini`
 
@@ -89,7 +85,7 @@ Real-time 1v1 coding battles *(yes, cat + code, very on brand)*. Get matched glo
 
 `Aug 2025 – Sept 2025`
 
-Deep learning regression model that predicts fair product prices from real Amazon Kaggle data. Full pipeline — cleaning, encoding, normalization, 2-layer neural net with ReLU + Adam. First ML project I did end-to-end without a tutorial. The cat approves.
+Deep learning regression model predicting fair product prices from real Amazon Kaggle data. Full pipeline — cleaning, encoding, normalization, 2-layer neural net with ReLU + Adam. First ML project built end-to-end without a tutorial.
 
 `Python` `PyTorch` `Pandas` `NumPy` `Matplotlib`
 
@@ -100,9 +96,9 @@ Deep learning regression model that predicts fair product prices from real Amazo
 
 `in progress`
 
-Working on an agentic code reviewer that actually understands the full codebase — not just the diff. Also tinkering with LLM orchestration patterns and more real-time multiplayer ideas.
+Working on an agentic code reviewer that understands the full codebase — not just the diff. Also tinkering with LLM orchestration patterns and more real-time multiplayer ideas.
 
-*currently: staring at the wall and thinking about it (very cat behaviour)*
+*currently: staring at the wall thinking about it (very cat behaviour 🐱)*
 
 If this sounds interesting — [reach out](mailto:krishnakantvdjs10tha@gmail.com) 🐾
 
@@ -110,9 +106,11 @@ If this sounds interesting — [reach out](mailto:krishnakantvdjs10tha@gmail.com
 </tr>
 </table>
 
-<br/>
+---
 
 ## 🏆 highlights
+
+<img align="right" src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="180"/>
 
 | | | |
 |---|---|---|
@@ -123,7 +121,9 @@ If this sounds interesting — [reach out](mailto:krishnakantvdjs10tha@gmail.com
 | ⚡ | LeetCode | **Guardian** · max rating **2342** · top **0.4%** globally |
 | 💙 | Codeforces | **Expert** · max rating **1603** |
 
-<br/>
+<br clear="right"/>
+
+---
 
 ## 🛠️ stack
 
@@ -158,11 +158,15 @@ If this sounds interesting — [reach out](mailto:krishnakantvdjs10tha@gmail.com
 
 </div>
 
-<br/>
+---
 
 ## 📊 activity
 
 <div align="center">
+
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="40"/> &nbsp; *the commit graph is basically my heartbeat*
+
+<br/><br/>
 
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=pydevkrishna&theme=github-dark&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&currStreakNum=e6edf3&sideNums=e6edf3" />
 &nbsp;
@@ -178,21 +182,21 @@ If this sounds interesting — [reach out](mailto:krishnakantvdjs10tha@gmail.com
 
 </div>
 
-<br/>
-
 ---
 
 <div align="center">
 
-```
-  ฅ^•ﻌ•^ฅ  thanks for scrolling this far
-```
+<img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="100"/>
+
+<br/>
 
 **got a cool project, a collab idea, or a hiring form?**
 
 [📬 krishnakantvdjs10tha@gmail.com](mailto:krishnakantvdjs10tha@gmail.com) &nbsp;·&nbsp; 📍 Mathura, UP
 
-*a ⭐ on a repo that helped you goes a long way — even cats appreciate it*
+*a ⭐ on a repo that helped you goes a long way — even cats appreciate it 🐾*
+
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer" width="100%"/>
 
