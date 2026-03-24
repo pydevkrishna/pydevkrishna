@@ -1,6 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Krishan%20Kant%20Sharma&fontSize=48&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=@pydevkrishna%20%E2%80%94%20I%20build%20things%2C%20break%20things%2C%20fix%20them%20eventually&descAlignY=60&descSize=14&descColor=8b949e" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Krishan%20Kant%20Sharma&fontSize=48&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=%F0%9F%90%BE%20@pydevkrishna%20%E2%80%94%20I%20build%20things%2C%20break%20things%2C%20fix%20them%20eventually&descAlignY=60&descSize=14&descColor=8b949e" width="100%"/>
+
+<br/>
+
+```
+    /\_____/\
+   /  o   o  \       meow. you found my github.
+  ( ==  ^  == )      feel free to look around —
+   )         (       just don't wake me up.
+  (           )
+ ( (  )   (  ) )
+(__(__)___(__)__)
+```
 
 <br/>
 
@@ -16,13 +28,13 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=pydevkrishna&label=profile%20views&color=58a6ff&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=pydevkrishna&label=curious+visitors&color=58a6ff&style=flat" />
 
 </div>
 
 <br/>
 
-## `whoami`
+## 🐾 `whoami`
 
 CS undergrad at GL Bajaj, Mathura — studying AI/ML, graduating 2027. Got into competitive programming early and it kind of took over. Went from zero to **LeetCode Guardian (top 0.4%, rating 2342)** in about a year, solved 2000+ problems across platforms.
 
@@ -30,10 +42,12 @@ Along the way I started building real things — a RAG platform for querying Git
 
 ```python
 class KrishanKant:
+    name         = "Krishan Kant Sharma"          # human (probably)
     location     = "Mathura, Uttar Pradesh 🇮🇳"
-    college      = "GL Bajaj Group of Institutions — B.Tech CSE (AI/ML), 2023–27"
+    college      = "GL Bajaj — B.Tech CSE (AI/ML), 2023–27"
     ratings      = {"LeetCode": 2342, "Codeforces": 1603}
-    problems     = "2000+ solved"
+    problems     = "2000+ solved 🧠"
+    spirit_animal = "🐱 cat (naps hard, works harder)"
     building     = ["RAG systems", "real-time apps", "AI dev tools"]
     looking_for  = "SWE / ML internship 👀"
     contact      = "krishnakantvdjs10tha@gmail.com"
@@ -41,7 +55,7 @@ class KrishanKant:
 
 <br/>
 
-## 🏗️ Things I've Built
+## 🐱 things i've built
 
 <table>
 <tr>
@@ -51,7 +65,7 @@ class KrishanKant:
 
 `Dec 2025 – Feb 2026`
 
-Ask any GitHub repo questions in plain English and get grounded, file-level answers — not hallucinations. Clones the repo, chunks code into logical sections, embeds via FastEmbed, stores in Qdrant Cloud, and uses Gemini for generation. Also does PR review, commit summaries, and supports multi-repo chat workspaces.
+Ask any GitHub repo questions in plain English and get grounded, file-level answers — not hallucinations. Clones the repo, chunks code into logical sections, embeds via FastEmbed, stores in Qdrant Cloud, and uses Gemini for generation. Also does PR review, commit summaries, and multi-repo chat.
 
 `Python` `FastAPI` `PostgreSQL` `Qdrant` `Next.js` `Gemini` `Firebase`
 
@@ -62,7 +76,7 @@ Ask any GitHub repo questions in plain English and get grounded, file-level answ
 
 `Oct 2025 – Nov 2025`
 
-Real-time 1v1 coding battles. Get matched globally or challenge a friend, race on the same problem, and get Gemini to review both solutions after. WebSocket-driven state, Monaco Editor with 90+ languages, global leaderboard, and Redis-backed matchmaking queues.
+Real-time 1v1 coding battles *(yes, cat + code, very on brand)*. Get matched globally or challenge a friend, race on the same problem, and get Gemini to review both solutions after. WebSocket-driven state, Monaco Editor with 90+ languages, Redis matchmaking queues.
 
 `Python` `FastAPI` `React` `TypeScript` `Redis` `WebSockets` `Gemini`
 
@@ -75,20 +89,22 @@ Real-time 1v1 coding battles. Get matched globally or challenge a friend, race o
 
 `Aug 2025 – Sept 2025`
 
-Deep learning regression model that predicts fair product prices from real Amazon Kaggle data. Built the full pipeline myself — cleaning, encoding, normalization, train/test split, 2-layer neural net with ReLU + Adam, then plotted predicted vs actual to evaluate. First ML project I did end-to-end without following a tutorial.
+Deep learning regression model that predicts fair product prices from real Amazon Kaggle data. Full pipeline — cleaning, encoding, normalization, 2-layer neural net with ReLU + Adam. First ML project I did end-to-end without a tutorial. The cat approves.
 
 `Python` `PyTorch` `Pandas` `NumPy` `Matplotlib`
 
 </td>
 <td valign="top" width="50%">
 
-**🔮 Next up...**
+**🔮 next up...**
 
 `in progress`
 
-Working on an agentic code reviewer that understands the full codebase context, not just the diff you submitted. Also tinkering with LLM orchestration patterns and more real-time multiplayer ideas.
+Working on an agentic code reviewer that actually understands the full codebase — not just the diff. Also tinkering with LLM orchestration patterns and more real-time multiplayer ideas.
 
-If any of this sounds interesting — [reach out](mailto:krishnakantvdjs10tha@gmail.com), always down to collab.
+*currently: staring at the wall and thinking about it (very cat behaviour)*
+
+If this sounds interesting — [reach out](mailto:krishnakantvdjs10tha@gmail.com) 🐾
 
 </td>
 </tr>
@@ -96,7 +112,7 @@ If any of this sounds interesting — [reach out](mailto:krishnakantvdjs10tha@gm
 
 <br/>
 
-## 🏆 Highlights
+## 🏆 highlights
 
 | | | |
 |---|---|---|
@@ -109,7 +125,7 @@ If any of this sounds interesting — [reach out](mailto:krishnakantvdjs10tha@gm
 
 <br/>
 
-## 🛠️ Stack
+## 🛠️ stack
 
 <div align="center">
 
@@ -144,7 +160,7 @@ If any of this sounds interesting — [reach out](mailto:krishnakantvdjs10tha@gm
 
 <br/>
 
-## 📊 Activity
+## 📊 activity
 
 <div align="center">
 
@@ -168,12 +184,16 @@ If any of this sounds interesting — [reach out](mailto:krishnakantvdjs10tha@gm
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer&fontColor=58a6ff" width="100%"/>
+```
+  ฅ^•ﻌ•^ฅ  thanks for scrolling this far
+```
 
-**Got a cool project, a collab idea, or a hiring form?**
+**got a cool project, a collab idea, or a hiring form?**
 
 [📬 krishnakantvdjs10tha@gmail.com](mailto:krishnakantvdjs10tha@gmail.com) &nbsp;·&nbsp; 📍 Mathura, UP
 
-*A ⭐ on a repo that helped you goes a long way.*
+*a ⭐ on a repo that helped you goes a long way — even cats appreciate it*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer" width="100%"/>
 
 </div>
