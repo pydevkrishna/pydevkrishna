@@ -186,8 +186,6 @@ If this sounds interesting — [reach out](mailto:krishnakantvdjs10tha@gmail.com
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="100"/>
-
 <br/>
 
 **got a cool project, a collab idea, or a hiring form?**
