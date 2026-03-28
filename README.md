@@ -57,7 +57,7 @@ class KrishanKant:
 <tr>
 <td valign="top" width="50%">
 
-**🔍 RepoFriend** &nbsp;·&nbsp; [`live`](#) [`repo`](#)
+**🔍 RepoFriend** &nbsp;·&nbsp; [`live`](https://repo-friend.vercel.app/) [`repo`](https://github.com/pydevkrishna/RepoFriend)
 
 `Dec 2025 – Feb 2026`
 
