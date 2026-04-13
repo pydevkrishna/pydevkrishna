@@ -8,7 +8,7 @@
 
 <br/><br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=680&lines=meow.+you+found+my+github+%F0%9F%90%BE;Guardian+on+LeetCode+%E2%80%94+Top+0.4%25+globally+%F0%9F%94%A5;2342+peak+rating+%7C+2000%2B+problems+solved;Built+RAG+pipelines%2C+real-time+apps%2C+ML+models;Open+to+SWE+%2F+ML+internships+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=680&lines=meow.+you+found+my+github+%F0%9F%90%BE;Guardian+on+LeetCode+%E2%80%94+Top+0.4%25+globally+%F0%9F%94%A5;2430+peak+rating+%7C+2000%2B+problems+solved;Built+RAG+pipelines%2C+real-time+apps%2C+ML+models;Open+to+SWE+%2F+ML+internships+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
