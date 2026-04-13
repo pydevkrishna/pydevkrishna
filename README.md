@@ -30,7 +30,7 @@
 
 <img align="right" src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="200"/>
 
-CS undergrad at GL Bajaj, Mathura — studying AI/ML, graduating 2027. Got into competitive programming early and it kind of took over. Went from zero to **LeetCode Guardian (top 0.4%, rating 2342)** in about a year, solved 2000+ problems across platforms.
+CS undergrad at GL Bajaj, Mathura — studying AI/ML, graduating 2027. Got into competitive programming early and it kind of took over. Went from zero to **LeetCode Guardian (top 0.28%, rating 2430)** in about a year, solved 2000+ problems across platforms.
 
 Along the way I started building real things — a RAG platform for querying GitHub repos, a real-time 1v1 coding battle app, and some ML experiments. Currently into **RAG pipelines, real-time systems, and AI × dev tooling**.
 
