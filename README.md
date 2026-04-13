@@ -39,7 +39,7 @@ class KrishanKant:
     name          = "Krishan Kant Sharma"
     location      = "Mathura, Uttar Pradesh 🇮🇳"
     college       = "GL Bajaj — B.Tech CSE (AI/ML), 2023–27"
-    ratings       = {"LeetCode": 2342, "Codeforces": 1603}
+    ratings       = {"LeetCode": 2430, "Codeforces": 1603}
     problems      = "2000+ solved 🧠"
     spirit_animal = "🐱 cat (naps hard, works harder)"
     building      = ["RAG systems", "real-time apps", "AI dev tools"]
@@ -118,7 +118,7 @@ If this sounds interesting — [reach out](mailto:krishnakantvdjs10tha@gmail.com
 | 🥈 | Codeforces Round 1083 (Div. 2) | **Rank #520** / 21,113 |
 | 🤖 | Amazon ML Challenge 2025 | **Rank #235** / 6,000+ teams · score 54.21 |
 | 🧠 | Problems solved | **2000+** across all platforms |
-| ⚡ | LeetCode | **Guardian** · max rating **2342** · top **0.4%** globally |
+| ⚡ | LeetCode | **Guardian** · max rating **2430** · top **0.28%** globally |
 | 💙 | Codeforces | **Expert** · max rating **1603** |
 
 <br clear="right"/>
